@@ -1,4 +1,4 @@
-## All in one Aave Tracker
+## All in one Aave Monitoring/Tracker/Status App
 Comprehensive dashboard for the Aave Protocol.
 
 **Included features of app**:
