@@ -1,7 +1,7 @@
-## Aave Monitor
+## All in one Aave Tracker
 Comprehensive dashboard for the Aave Protocol.
 
-**Includes**:
+**Included features of app**:
 - fixed vs variable rates comparison by asset
 - summary of protocol activity by asset
 - summary of overall protocol activity
